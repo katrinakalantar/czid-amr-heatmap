@@ -15,7 +15,7 @@ cd czid-amr-heatmap
 jupyter notebook  # will open a notebook server
 ```
 
-Then, select Make_Nanopore_Heatmap.ipynb to run, then run each cell of the notebook
+Then, select Make_AMR_Heatmap.ipynb to run, then run each cell of the notebook
 
 2. Run via Google colab; this requires no dependency set-up on your part
 
